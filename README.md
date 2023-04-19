@@ -18,7 +18,7 @@ This app is based on asp.net core (MVC)  ,and needs sql sever to run.
 ```
 + Open the souce code with Visual Studio (Recommend to use 2022 or higher).
 + Create a database  named BookStore in sql server
-+ Install these  NuGet Package Manger
++ Install these  NuGet Package
   + Microsoft.EntityFrameworkCore
   + Microsoft.EntityFrameworkCore.SqlServer
   + Microsoft.EntityFrameworkCore.Tools
