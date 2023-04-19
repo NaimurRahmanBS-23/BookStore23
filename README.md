@@ -17,8 +17,8 @@ This is simple BookStore webapplication where you can:
 This app is based on asp.net core (MVC)  ,and needs sql sever to run. 
 ```
 + Open the souce code with Visual Studio (Recommend to use 2022 or higher).
-+ The sql server must have a database called BookStore
-+ In our code we have used several NuGet Package Manger
++ Create a database  named BookStore in sql server
++ Install these  NuGet Package Manger
   + Microsoft.EntityFrameworkCore
   + Microsoft.EntityFrameworkCore.SqlServer
   + Microsoft.EntityFrameworkCore.Tools
@@ -33,7 +33,7 @@ This app is based on asp.net core (MVC)  ,and needs sql sever to run.
 Now you can click the run button and application will run a port specified in the LauchSetting.json file.
 
 # Issue
-This repository is maintained actively,so if you face any issue please [raise an issue](https://github.com/NaimurRahmanBS-23/BookStore/issues).
+This repository is maintained actively,so if you face any issue please [raise an issue](https://github.com/NaimurRahmanBS-23/BookStore23/issues).
 
 # **Liked the work ?**
 
