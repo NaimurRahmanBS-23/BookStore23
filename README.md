@@ -1,9 +1,9 @@
-# BookStore a web based application
+# BookStore23 is a web based application
 This repository contains the **BookStore** source code. 
-BookStore is a web application based on **Asp.Net-core**.
+BookStore23 is a web application based on **Asp.Net-core**.
 
 # Introduction
-This is simple BookStore webapplication where you can:
+This is simple BookStore webapplication where one :
 ```
 + Can see all the books available in the store
 + Add new book to the store
